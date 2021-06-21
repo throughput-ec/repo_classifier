@@ -70,3 +70,7 @@ TODO:
 [include workflow chart]
 
 ### Instructions
+View notebooks in following order:
+- [Repo Classifier Readme Getter](https://github.com/throughput-ec/repo_classifier/blob/main/Repo_Classifier_Readme_Getter.ipynb)
+- [Labeling Data](https://github.com/throughput-ec/repo_classifier/blob/main/Labeling_Data.ipynb)
+- [Classifying with Spacy & SkLearn](https://github.com/throughput-ec/repo_classifier/blob/main/SpaCy%20Preprocessing.ipynb)
